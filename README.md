@@ -1,55 +1,55 @@
-# Unit Converter + Calculator
+# 🧮 Unit Converter + Calculator
 
-A simple Python program that combines a unit converter and a basic calculator in one interactive command-line application.
+A simple Python command-line program that combines a unit converter and a basic calculator in one interactive menu! 🚀
 
-Features
+✨ Features
 
-Unit Converter:
+Unit Converter 🔄
 
-Kilometers to Miles
+🛣️ Kilometers → Miles
 
-Celsius to Fahrenheit
+🌡️ Celsius → Fahrenheit
 
-Kilograms to Pounds
+⚖️ Kilograms → Pounds
 
-km/h to m/s
+🚗 km/h → m/s
 
-m/s to km/h
+🏃‍♂️ m/s → km/h
 
-Minutes to Hours
+⏱️ Minutes → Hours
 
-Hours to Minutes
+⏰ Hours → Minutes
 
-Calculator:
+Calculator ➕➖✖️
 
-Addition
+➕ Addition
 
-Subtraction
+➖ Subtraction
 
-Multiplication
+✖️ Multiplication
 
-How It Works
+🖥️ How It Works
 
-Run the program in Python:
+Run the program:
 
 python main.py
 
 
 A menu will appear with unit conversion and calculator options.
 
-Enter the corresponding number to select the operation.
+Enter the number corresponding to the operation.
 
 Input the values as prompted.
 
-To exit, select option 11.
+To exit, select option 11 🚪.
 
-Requirements
+⚙️ Requirements
 
-Python 3.x
+Python 3.x 🐍
 
-Usage
+🚀 Usage
 
-Copy the code into a Python file (main.py).
+Copy the code into a file main.py.
 
 Open terminal and run:
 
@@ -58,8 +58,6 @@ python main.py
 
 Follow the on-screen instructions to perform conversions or calculations.
 
-License
+📄 License
 
-This project is open-source and free to use.
-
-If you want, I can also add badges, screenshots, and a prettier layout for GitHub so it looks more professional. Do
+This project is open-source and free to use. ❤️
